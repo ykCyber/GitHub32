@@ -1,4 +1,4 @@
-package test.java;
+package test;
 
 public class Dijar {
     public static void main(String[] args) {
